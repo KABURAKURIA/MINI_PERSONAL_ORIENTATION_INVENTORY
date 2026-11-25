@@ -1,15 +1,10 @@
-# 🧭 Mini Personal Orientation Inventory (POI) Assessment Tool
-
-[![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B.svg?logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg?logo=python&logoColor=white)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Domain](https://img.shields.io/badge/Domain-Psychometrics%20%26%20Analytics-green.svg)](https://github.com/KABURAKURIA/MINI_PERSONAL_ORIENTATION_INVENTORY)
+# Mini Personal Orientation Inventory (POI) Assessment Tool
 
 An interactive psychometrics assessment, scoring, and visualization platform based on Everett Shostrom's **Personal Orientation Inventory (POI)**—a foundational instrument for measuring self-actualization, values, and psychological autonomy.
 
 ---
 
-## 🌟 Assessment Dimensions
+## Assessment Dimensions
 
 The Mini-POI evaluates core constructs associated with healthy psychological functioning:
 
@@ -24,7 +19,7 @@ The Mini-POI evaluates core constructs associated with healthy psychological fun
 
 ---
 
-## ✨ Application Features
+## Application Features
 
 - **Interactive Glassmorphic Assessment Form**: Responsive Likert assessment interface styled with modern CSS.
 - **Real-Time Score Normalization**: Algorithmic scoring with percentile norm calculations against standard population baselines.
@@ -33,7 +28,7 @@ The Mini-POI evaluates core constructs associated with healthy psychological fun
 
 ---
 
-## 🚀 Running Locally
+## Running Locally
 
 ```bash
 git clone https://github.com/KABURAKURIA/MINI_PERSONAL_ORIENTATION_INVENTORY.git
@@ -45,6 +40,6 @@ streamlit run app.py
 
 ---
 
-## 📄 License
+## License
 
 MIT License.
